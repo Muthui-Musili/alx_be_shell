@@ -1,0 +1,4 @@
+'c:/Users/Admin/Documents/alx_be_shell/shell_permissions/4-empty'
+#!/bin/bash
+chmod u+x hello
+
