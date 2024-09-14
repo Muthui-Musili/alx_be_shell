@@ -1,1 +1,2 @@
-tail -n +2 0-iam_betty | wc -c
+#!/bin/bash
+echo "The current user is: $(whoami)"
